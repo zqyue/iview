@@ -19,11 +19,13 @@
                     },
                     {
                         title: 'Name',
-                        key: 'name'
+                        key: 'name',
+                        mytitle: 'testname'
                     },
                     {
                         title: 'Age',
-                        key: 'age'
+                        key: 'age',
+                        mytitle: 'testAge'
                     },
                     {
                         title: 'Address',

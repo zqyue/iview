@@ -11,7 +11,8 @@
                         title: '姓名',
                         key: 'name',
                         width: 100,
-                        fixed: 'left'
+                        fixed: 'left',
+
                     },
                     {
                         title: '年龄',
